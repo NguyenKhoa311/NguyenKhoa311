@@ -1,6 +1,6 @@
-<img align="right" height="150" src="https://raw.githubusercontent.com/NguyenKhoa311/NguyenKhoa311/refs/heads/main/profilepic.webp" />
 
-# 👋 Hey, What's up?
+
+# 👋 Hey, What's up? <img align="right" height="150" src="https://raw.githubusercontent.com/NguyenKhoa311/NguyenKhoa311/refs/heads/main/profilepic.webp" />
 
 Hi! My name is **Khoa**, but you can call me **Tangerine** 🍊. Welcome to my profile!  
 
