@@ -7,7 +7,7 @@ Hi! My name is **Khoa**, but you can call me **Tangerine** 🍊. Welcome to my p
 ---
 
 ## 🚀 About Me
-✨ Passionate about creating innovative solutions and learning new technologies  
+✨ Driven by curiosity and a passion for crafting innovative projects while continuously exploring and mastering new technologies.
 📚 Currently studying **Computer Networks and Data Communications** at **VNU - University of Engineering and Technology**  
 🎯 Aspiring to become a **Data Engineer** or **DevOps Engineer**  
 🎲 Fun fact: I enjoy tinkering with code and occasionally creating bugs since 2023 😅  
