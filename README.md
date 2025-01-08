@@ -56,7 +56,7 @@ Hi! My name is **Khoa**, but you can call me **Tangerine** 🍊. Welcome to my p
 
 ---
 
-## 🎨 Just a funny snake game 
+## 🎨 Just a funny snake animation
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NguyenKhoa311/NguyenKhoa311/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NguyenKhoa311/NguyenKhoa311/output/github-snake.svg" />
