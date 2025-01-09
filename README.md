@@ -64,3 +64,7 @@ Hi! My name is **Khoa**, but you can call me **Tangerine** 🍊. Welcome to my p
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NguyenKhoa311/NguyenKhoa311/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/NguyenKhoa311/NguyenKhoa311/output/github-snake.svg" />
 </picture>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NguyenKhoa311.NguyenKhoa311&"  />
+</div>
