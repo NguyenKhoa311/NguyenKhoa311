@@ -48,7 +48,7 @@ Hi! My name is **Khoa**, but you can call me **Tangerine** 🍊. Welcome to my p
   <a href="https://www.instagram.com/tangerineee311205/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="mailto:khoabeo6a1@gmail.com" target="_blank">
+  <a href="mailto:khoanv.se@@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-v%C4%83n-khoa-24055a329/" target="_blank">
